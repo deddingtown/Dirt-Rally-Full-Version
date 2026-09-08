@@ -245,3 +245,6 @@ This repository serves as the official landing page for DiRT Rally. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of DiRT Rally today!**
+
+---
+**Last updated:** 2026-09-08 00:50:11 UTC
