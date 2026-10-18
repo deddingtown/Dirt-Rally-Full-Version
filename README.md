@@ -247,4 +247,4 @@ This repository serves as the official landing page for DiRT Rally. The software
 **Get the most recent version of DiRT Rally today!**
 
 ---
-**Last updated:** 2026-10-18 07:36:32 UTC
+**Last updated:** 2026-10-18 12:19:23 UTC
